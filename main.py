@@ -1,7 +1,6 @@
 #import一些東西
 import webbrowser #import webbrowser
 import time #import time
-import keyboard #import keyboard
 
 #變數設定
 times = 0 #時間的變數
