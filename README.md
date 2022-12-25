@@ -17,4 +17,4 @@ NAFF商店現在每日登入賺一塊
 [點我開啟](https://nafstore.net/)
 
 NAFF.tw自動簽到開源完畢
-[點我開啟](https://github.com/Coca-Sprite/sign-NAFF.tw-on-Discord/)
+[點我開啟](https://github.com/Coca-Sprite/Sign-NAFF.tw-on-Discord/)
